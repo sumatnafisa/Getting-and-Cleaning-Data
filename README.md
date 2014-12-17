@@ -2,7 +2,8 @@ Getting-and-Cleaning-Data
 =========================
 
 
-"Project Summary"
+Project Summary
+=================
 
 The following is a summary description of the project instructions
 
